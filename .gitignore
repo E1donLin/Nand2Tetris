@@ -1,2 +1,3 @@
 projects/**/*.out
 *.dat
+.ds_store
